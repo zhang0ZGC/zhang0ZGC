@@ -8,7 +8,7 @@
 
 ### Hello World! Hello You! 😄
 
-- 🔭 I’m currently working on frontend
+- 🔭 I’m a front-end developer
 - 📫 Email: xm@tqzgc.com
 
 <!--
