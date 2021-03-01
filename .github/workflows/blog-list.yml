@@ -1,0 +1,13 @@
+- name: Auto Issue List in README
+  # You may pin to the exact commit or the version.
+  # uses: seed-of-apricot/issue-list-readme@55669b219cbd65d46522bd6dde3067b8d1df3c5f
+  uses: seed-of-apricot/issue-list-readme@v1.1.0
+  with:
+    # token
+    GITHUB_TOKEN: '375770b2f4517f79463bf16680dca9d600b9189e'
+    # pattern to detect the place to locate the table
+    pattern: # optional, default is <!-- issueTable -->
+    # comma-separated labels to filter the issues
+    labels: # optional
+    # state of the issues to filter them (open or closed)
+    state: open
