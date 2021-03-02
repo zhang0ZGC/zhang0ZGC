@@ -15,7 +15,7 @@
 
 <!-- issueTable -->
 
-
+[object Promise]
 <!-- issueTable -->
 
 <!--
