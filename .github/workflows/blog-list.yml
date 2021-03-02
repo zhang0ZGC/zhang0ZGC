@@ -10,11 +10,14 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: Auto Issue List in README
-        uses: seed-of-apricot/issue-list-readme@master
+        uses: zhang0ZGC/issue-list-readme@master
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           pattern: "<!-- issueTable -->"
           state: "open"
+          labels: "BLOG"
+          creator: "zhang0ZGC"
+          per_page: 10
       - name: add-and-commit
         uses: EndBug/add-and-commit@v4
         with:
