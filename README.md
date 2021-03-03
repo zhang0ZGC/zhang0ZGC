@@ -15,8 +15,13 @@
 
 ## 📝Latest Blog Posts
 <!-- issueTable -->
-1. [Second Issue](https://github.com/zhang0ZGC/zhang0ZGC/issues/2)
-2. [First Test Issue](https://github.com/zhang0ZGC/zhang0ZGC/issues/1)
+
+1. [理解与手写Promise](https://github.com/zhang0ZGC/zhang0ZGC/issues/10)
+2. [ES5中部分操作类型转换小抄](https://github.com/zhang0ZGC/zhang0ZGC/issues/9)
+3. [JS中的节流与防抖函数](https://github.com/zhang0ZGC/zhang0ZGC/issues/8)
+4. [使用AutoHotKey做按键映射来扩充我可怜的小键盘](https://github.com/zhang0ZGC/zhang0ZGC/issues/6)
+5. [Flex布局学习总结](https://github.com/zhang0ZGC/zhang0ZGC/issues/5)
+6. [JS变量/函数提升](https://github.com/zhang0ZGC/zhang0ZGC/issues/3)
 <!-- issueTable -->
 
 <!--
