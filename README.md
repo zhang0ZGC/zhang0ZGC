@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 
 
-<!-- issueTable -->
 ## 📝Latest Blog Posts
+<!-- issueTable -->
 1. [Second Issue](https://github.com/zhang0ZGC/zhang0ZGC/issues/2)
 2. [First Test Issue](https://github.com/zhang0ZGC/zhang0ZGC/issues/1)
 <!-- issueTable -->
