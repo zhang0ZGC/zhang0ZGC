@@ -16,12 +16,13 @@
 ## 📝Latest Blog Posts
 <!-- issueTable -->
 
-1. [理解与手写Promise](https://github.com/zhang0ZGC/zhang0ZGC/issues/10)
-2. [ES5中部分操作类型转换小抄](https://github.com/zhang0ZGC/zhang0ZGC/issues/9)
-3. [JS中的节流与防抖函数](https://github.com/zhang0ZGC/zhang0ZGC/issues/8)
-4. [使用AutoHotKey做按键映射来扩充我可怜的小键盘](https://github.com/zhang0ZGC/zhang0ZGC/issues/6)
-5. [Flex布局学习总结](https://github.com/zhang0ZGC/zhang0ZGC/issues/5)
-6. [JS变量/函数提升](https://github.com/zhang0ZGC/zhang0ZGC/issues/3)
+1. [通过 Github 的 Actions 自动将 Issues 中的文章列表同步到主页 README](https://github.com/zhang0ZGC/zhang0ZGC/issues/11)
+2. [理解与手写Promise](https://github.com/zhang0ZGC/zhang0ZGC/issues/10)
+3. [ES5中部分操作类型转换小抄](https://github.com/zhang0ZGC/zhang0ZGC/issues/9)
+4. [JS中的节流与防抖函数](https://github.com/zhang0ZGC/zhang0ZGC/issues/8)
+5. [使用AutoHotKey做按键映射来扩充我可怜的小键盘](https://github.com/zhang0ZGC/zhang0ZGC/issues/6)
+6. [Flex布局学习总结](https://github.com/zhang0ZGC/zhang0ZGC/issues/5)
+7. [JS变量/函数提升](https://github.com/zhang0ZGC/zhang0ZGC/issues/3)
 <!-- issueTable -->
 
 <!--
