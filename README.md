@@ -7,7 +7,7 @@
 -->
 
 ### Hello World! Hello You! 😄
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhang0ZGC.zhang0ZGC)
 - 🔭 I’m a front-end developer
 - 📫 Email: xm@tqzgc.com
 - 🌱 I’m currently learning Data Structures and Algorithms
